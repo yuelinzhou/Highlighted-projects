@@ -1,4 +1,4 @@
-## Codes are in Rmd file.
+## Code are in Rmd file.
 
 # Part 3: Practice with Regular Expressions
 
